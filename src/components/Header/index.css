@@ -1,0 +1,113 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1e1e30;
+  height: 80px;
+  padding: 10px 30px;
+
+  @media screen and (min-width: 786px) {
+    padding: 10px 80px;
+  }
+}
+
+.header-heading {
+  font-family: 'Bree Serif';
+  font-weight: 400;
+  font-size: 18px;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+
+@media screen and (min-width: 768px) {
+  .header-heading {
+    font-size: 24px;
+  }
+}
+
+.india-text {
+  color: #007bff;
+}
+
+.nav-menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  margin: 0px;
+}
+
+@media screen and (max-width: 767px) {
+  .nav-menu {
+    display: none;
+  }
+}
+
+.nav-menu-item {
+  width: 100%;
+  padding: 12px 15px;
+  cursor: pointer;
+  background: transparent;
+  outline: none;
+  border: none;
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  transition: color 0.2s;
+}
+
+.active-menu {
+  color: #94a3b8;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.mobile-nav-items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background: #1e1e30;
+  color: #f8fafc;
+  border: 2px solid #94a3b8;
+  border-right: none;
+  border-left: none;
+  border-bottom: none;
+}
+
+.menu-items-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.mobile-menu-icon-button {
+  background: #1e1e30;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+@media screen and (min-width: 768px) {
+  .mobile-menu-icon-button {
+    display: none;
+  }
+}
+
+.close-icon-button {
+  background: #1e1e30;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.menu-icon {
+  height: 25px;
+  width: 30px;
+  color: #ffffff;
+}

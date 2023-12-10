@@ -1,0 +1,24 @@
+.home-container {
+  background: #161625;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow-x: auto;
+  padding: 5px 5px 100px;
+}
+
+.home-loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #161625;
+  min-height: 100vh;
+}
+
+.search-results-container {
+  list-style-type: none;
+  width: 60%;
+  background: #161625;
+}

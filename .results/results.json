@@ -1,0 +1,467 @@
+{
+  "test_case_results": [
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_114",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_115",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_16",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_17",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_18",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_19",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_20",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_21",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_22",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_23",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_24",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_8",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_9",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_10",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_11",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_12",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_13",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_14",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_15",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_74",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_75",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_76",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_77",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_78",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_1",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_2",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_3",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_4",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_5",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_6",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_7",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_25",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_26",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_27",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_28",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_29",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_30",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_31",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_32",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_33",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_34",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_35",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_36",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_37",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_38",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_39",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_40",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_41",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_42",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_43",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_44",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_45",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_46",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_47",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_48",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_49",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_50",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_51",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_52",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_53",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_54",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_55",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_56",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_57",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_58",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_59",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_60",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_61",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_62",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_63",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_64",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_65",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_66",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_67",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_68",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_69",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_70",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_71",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_72",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_73",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_79",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_80",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_81",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_82",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_83",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_84",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_85",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_86",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_87",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_88",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_89",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_90",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_91",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_92",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_93",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_94",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_95",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_96",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_97",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_98",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_99",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_100",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_101",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_102",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_103",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_104",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_105",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_106",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_107",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_108",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_109",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_110",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_111",
+      "evaluation_result": "INCORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_112",
+      "evaluation_result": "CORRECT"
+    },
+    {
+      "test_case_id": "RJSCPAUCLT_TEST_113",
+      "evaluation_result": "CORRECT"
+    }
+  ]
+}

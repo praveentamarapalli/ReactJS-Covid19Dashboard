@@ -1,0 +1,52 @@
+.charts-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0px;
+}
+
+.bar-graph-container {
+  align-self: center;
+}
+
+.charts-graph-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 800;
+  line-height: 48px;
+  margin: 20px 0px;
+}
+
+@media screen and (min-width: 768px) {
+  .charts-graph-heading {
+    font-size: 36px;
+  }
+}
+
+.line-graph-container {
+  padding: 20px;
+  margin: 30px 0px;
+  border-radius: 10px;
+}
+
+.line-graph-confirmed {
+  background-color: #331427;
+}
+
+.line-graph-active {
+  background-color: #132240;
+}
+
+.line-graph-recovered {
+  background-color: #182829;
+}
+
+.line-graph-deceased {
+  background-color: #1c1c2b;
+}
+
+.line-graph-tested {
+  background-color: #230f41;
+}

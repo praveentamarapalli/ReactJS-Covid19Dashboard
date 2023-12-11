@@ -1,4 +1,3 @@
-import {Link} from 'react-router-dom'
 import {VscGithubAlt} from 'react-icons/vsc'
 import {FiInstagram} from 'react-icons/fi'
 import {FaTwitter} from 'react-icons/fa'
@@ -15,15 +14,15 @@ const Footer = () => (
       </p>
     </div>
     <div className="footer-icons-container">
-      <Link to="https://github.com/" target="__blank" className="">
+      <a href="https://github.com/" target="__blank" label="GitHub">
         <VscGithubAlt className="footer-icon" />
-      </Link>
-      <Link to="https://www.instagram.com/" target="__blank">
+      </a>
+      <a href="https://www.instagram.com/" target="__blank" label="Instagram">
         <FiInstagram className="footer-icon" />
-      </Link>
-      <Link to="https://twitter.com/" target="__blank">
+      </a>
+      <a href="https://twitter.com/" target="__blank" label="Twitter">
         <FaTwitter className="footer-icon" />
-      </Link>
+      </a>
     </div>
   </footer>
 )

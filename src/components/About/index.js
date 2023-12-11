@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 /* eslint-disable react/no-unknown-property */
-=======
-import React from 'react'
->>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
 import {useState, useEffect} from 'react'
 import Header from '../Header'
 import Footer from '../Footer'
@@ -87,11 +83,7 @@ const About = () => {
     )
   }
 
-<<<<<<< HEAD
   // const renderFailureView = () => {};
-=======
-  //const renderFailureView = () => {};
->>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
 
   const renderAboutUI = () => {
     const {status} = stateData
@@ -101,13 +93,8 @@ const About = () => {
         return renderLoaderView()
       case apiStatusConstants.success:
         return renderSuccessView()
-<<<<<<< HEAD
       // case apiStatusConstants.failure:
       // return renderFailureView();
-=======
-      //case apiStatusConstants.failure:
-      //return renderFailureView();
->>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
       default:
         return null
     }

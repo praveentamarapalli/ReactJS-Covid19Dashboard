@@ -31,11 +31,7 @@ const Header = () => {
 
   return (
     <header>
-<<<<<<< HEAD
       <ul className="nav-container">
-=======
-      <nav className="nav-container">
->>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
         <div>
           <Link to="/" className="nav-link">
             <h1 className="header-heading">
@@ -73,17 +69,10 @@ const Header = () => {
         >
           <ImMenu3 className="menu-icon" />
         </button>
-<<<<<<< HEAD
       </ul>
       {showMenu ? (
         <div className="mobile-nav-items-container">
           <ul className="menu-items-container">
-=======
-      </nav>
-      {showMenu ? (
-        <div className="mobile-nav-items-container">
-          <div className="menu-items-container">
->>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
             <Link to="/" className="nav-link">
               <button
                 type="button"
@@ -104,11 +93,7 @@ const Header = () => {
                 About
               </button>
             </Link>
-<<<<<<< HEAD
           </ul>
-=======
-          </div>
->>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
           <div>
             <button
               type="button"

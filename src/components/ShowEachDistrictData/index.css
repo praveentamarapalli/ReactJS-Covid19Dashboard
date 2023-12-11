@@ -1,0 +1,41 @@
+.each-district-item-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 10px;
+  width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+  .each-district-item-container {
+    width: 300px;
+  }
+}
+
+.district-value {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0px 5px;
+}
+
+@media screen and (min-width: 768px) {
+  .district-value {
+    font-size: 26px;
+  }
+}
+
+.district-name {
+  color: #cbd5e1;
+  font-family: 'Roboto';
+  font-size: 14px;
+  margin: 0px 5px;
+}
+
+@media screen and (min-width: 768px) {
+  .district-name {
+    font-size: 18px;
+  }
+}

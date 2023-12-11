@@ -6,6 +6,7 @@ import './index.css'
 
 const Footer = () => (
   <footer className="footer-container">
+<<<<<<< HEAD
     <div className="footer-element">
       <p className="footer-heading">COVID19INDIA</p>
     </div>
@@ -14,6 +15,12 @@ const Footer = () => (
         we stand with everyone fighting on the front lines
       </p>
     </div>
+=======
+    <h1 className="footer-heading">COVID19INDIA</h1>
+    <p className="footer-description">
+      we stand with everyone fighting on the front lines
+    </p>
+>>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
     <div className="footer-icons-container">
       <Link to="https://github.com/" target="__blank" className="">
         <VscGithubAlt className="footer-icon" />

@@ -31,7 +31,13 @@ const IndiaStatsCard = props => {
         <p className="confirmed-cases cases">{confirmedCases}</p>
       </div>
       <div className="active card" testid="countryWideActiveCases">
+<<<<<<< HEAD
         <p className="stats-type active-cases">Active</p>
+=======
+        <p className="stats-type active-cases" testid="countryWideActiveCases">
+          Active
+        </p>
+>>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
         <img
           src="https://res.cloudinary.com/dmeqhiqbm/image/upload/v1701171383/fihfpjrhgwgq2u89xj3o.png"
           alt="country wide active cases pic"

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+>>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
 # dependencies
 /node_modules
 /.pnp
@@ -18,9 +23,13 @@
 
 npm-debug.log*
 yarn-debug.log*
+<<<<<<< HEAD
 yarn-error.log*
 
 .idea/
 .eslintcache
 .vscode/
 .results
+=======
+yarn-error.log*
+>>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e

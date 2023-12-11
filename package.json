@@ -22,7 +22,12 @@
     "react-loader-spinner": "4.0.0",
     "react-router-dom": "5.3.0",
     "react-select": "4.3.1",
+<<<<<<< HEAD
     "recharts": "2.1.5"
+=======
+    "recharts": "2.1.5",
+    "styled-components": "6.1.1"
+>>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
   },
   "devDependencies": {
     "eslint-config-airbnb": "18.2.1",

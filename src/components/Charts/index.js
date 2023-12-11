@@ -155,7 +155,11 @@ const Charts = props => {
   const lineGraphCharts = () => (
     <div>
       <h1 className="charts-graph-heading">Speed Trends</h1>
+<<<<<<< HEAD
       <div className="line-chart-graph">
+=======
+      <div testid="lineChartsContainer" className="line-chart-graph">
+>>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
         <div className="charts-graph-list-margin charts-graph-red">
           {lineGraph('confirmed', '#FF073A')}
         </div>

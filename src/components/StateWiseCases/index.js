@@ -333,7 +333,11 @@ const StateWiseCases = () => {
             </div>
           </div>
         </div>
+<<<<<<< HEAD
         <div className="charts-data-container">
+=======
+        <div testid="lineChartsContainer" className="charts-data-container">
+>>>>>>> f669e8f54bd2c41e61fc1bd03f1923ccddc7478e
           <Charts category={category} />
         </div>
       </div>
